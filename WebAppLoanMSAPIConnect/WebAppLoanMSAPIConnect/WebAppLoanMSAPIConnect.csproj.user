@@ -12,5 +12,6 @@
     <WebStackScaffolding_DbContextTypeFullName>WebAppLoanMSAPIConnect.Data.WebAppLoanMSAPIConnectContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\kirth\Downloads\WebAppLoanMSAPI_Latest\WebAppLoanMSAPIConnect\WebAppLoanMSAPIConnect\Properties\PublishProfiles\loanstationapi - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

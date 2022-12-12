@@ -1,0 +1,2 @@
+{"Timestamp":"2022-12-12T07:40:42.4313641+05:30","Level":"Information","MessageTemplate":"Our Web API Started!!!","Properties":{"MachineName":"LAPTOP-CF0RCG3D","ProcessId":13920,"ThreadId":1,"ApplicationName":"Serilog.WebApplication"}}
+{"Timestamp":"2022-12-12T07:42:08.3251298+05:30","Level":"Information","MessageTemplate":"Our Web API Started!!!","Properties":{"MachineName":"LAPTOP-CF0RCG3D","ProcessId":24076,"ThreadId":1,"ApplicationName":"Serilog.WebApplication"}}

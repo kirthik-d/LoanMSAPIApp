@@ -319,3 +319,4 @@ C:\Users\kirth\Downloads\WebAppLoanMSAPI_Latest\WebAppLoanMSAPIConnect\WebAppLoa
 C:\Users\kirth\Downloads\WebAppLoanMSAPI_Latest\WebAppLoanMSAPIConnect\WebAppLoanMSAPIConnect\obj\Debug\netcoreapp3.1\WebAppLoanMSAPIConnect.dll
 C:\Users\kirth\Downloads\WebAppLoanMSAPI_Latest\WebAppLoanMSAPIConnect\WebAppLoanMSAPIConnect\obj\Debug\netcoreapp3.1\WebAppLoanMSAPIConnect.pdb
 C:\Users\kirth\Downloads\WebAppLoanMSAPI_Latest\WebAppLoanMSAPIConnect\WebAppLoanMSAPIConnect\obj\Debug\netcoreapp3.1\WebAppLoanMSAPIConnect.genruntimeconfig.cache
+C:\Users\kirth\Downloads\WebAppLoanMSAPI_Latest\WebAppLoanMSAPIConnect\WebAppLoanMSAPIConnect\bin\Debug\netcoreapp3.1\Serilogs\AppJSONLogs.json
